@@ -8,21 +8,27 @@ Characters and enemies in Booga's Welcome of Fate utilize two resources: Health 
 * Health is the primary resource and is reduced by enemy attacks and can be replenished with certain abilities and by using items.
 * Mana is a secondary resource that is used to cast spells. Each spell consumes a set amount of mana when cast. Mana is resotred slowly over time, but can be replenished quicly through the use of items.
 
+User Interface:
+
+The user interface (UI) appears on the bottom edge of the screen and shows the characters level, current and maximum health and mana, and any weapons and armor currently equiped. The player can click on the bag icon in the UI to view the items help in their item bag. 
+
 Controls:
 
 Booga's Welcome of Fate uses both the keyboard and mouse to navigate through the in game areas and interact with enemies, NPCs and navigate through menu screens.
 
 * Character Movement: Players control their characters in game movements using the WASD keys. When a character reaches the end of an area, they can progress to the next area by continuing to move in the same direction.
 * Attacking: Players use the X key on their keyboard to basic attack enemies. 
-* Spell Casting: 
+* Spell Casting: Spells can be bound to any of the number keys on the keyboard and pressing the key will cast the spell in the direction the player is facing.
 * NPC Interaction: Players can left click on NPCs to talk to them and continue to use the left click to parse through each          page of text.
 * Menu Navigation: Player select options in the in game menus using the left click. Right click to deselect options, and the escape key is used to exit menus.
 
 Items: 
-Items can be split into three different catagories
+Items are divided into three catagories:
 * Consumables: These are single use items that restore a players health or mana
 * Weapons: Each player can equip on weapon at a time and each weapon changes the damage and range of their basic attack.
 * Armor: Each player can equip various pieces of armor and each piece of armor increases a players maximum health.
+
+All items that are not currently equiped to the player and any consumables are stored in the player's item bag accessed through the UI.
 
 Classes:
 
